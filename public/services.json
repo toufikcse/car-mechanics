@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": 2000,
+    "time": 2,
+    "img": "https://i.ibb.co/6NG5rC9/1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 2,
+    "name": "Replace Wheel",
+    "price": 2000,
+    "time": 4,
+    "img": "https://i.ibb.co/FxY8md8/2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 3,
+    "name": "Change Body",
+    "price": 2000,
+    "time": 10,
+    "img": "https://i.ibb.co/fpmLxv5/Travel-destinations-old-car-under-palm-trees-Cuba.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 4,
+    "name": "Engine Replace",
+    "price": 2000,
+    "time": 5,
+    "img": "https://i.ibb.co/kG2v20f/Vietnamese-mechanic-with-dirt-on-his-face-repairing-car-in-garage.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 5,
+    "name": "Change Battary",
+    "price": 2000,
+    "time": 7,
+    "img": "https://i.ibb.co/4NhbhDC/Male-Tutor-With-Student-Looking-Underneath-Car-On-Hydraulic-Ramp-On-Auto-Mechanic-Course.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 6,
+    "name": "Full Petrol",
+    "price": 2000,
+    "time": 1,
+    "img": "https://i.ibb.co/tMmvHXX/a-portrait-of-machanic-while-maintennance-a-car-women-and-men-are-co-workers-discussing-on-work-job.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  },
+  {
+    "id": 7,
+    "name": "Change the break",
+    "price": 2000,
+    "time": 3,
+    "img": "https://i.ibb.co/FXcgs8S/8.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tenetur dignissimos est autem! Consequuntur deserunt, commodi ex odit minima animi mollitia vitae, quasi eos reprehenderit id est nisi, aspernatur aut."
+  }
+]
